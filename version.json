@@ -6,15 +6,15 @@
             "date": "2023-10-01",
             "changes": [
                 "Lançamento inicial do programa.",
-                
+                "Correção de bugs menores."
             ]
         },
         {
             "version": "1.1.0",
-            "date": "2023-10-01",
+            "date": "2023-10-15",
             "changes": [
                 "Adição de novos recursos.",
-                
+                "Melhorias na interface do usuário."
             ]
         }
     ]
