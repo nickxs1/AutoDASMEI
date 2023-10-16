@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.4.1",
+    "latest_version": "1.4.2",
     "release_notes": [
         {
             "version": "1.0.0",
@@ -50,7 +50,7 @@
             ]
         },
         {
-            "version": "1.4.1",
+            "version": "1.4.2",
             "date": "2023-10-16",
             "changes": [
                 "Corrigido alteração visual ao editar empresa principal"
