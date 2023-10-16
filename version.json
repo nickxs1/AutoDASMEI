@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.4.0",
+    "latest_version": "1.4.1",
     "release_notes": [
         {
             "version": "1.0.0",
@@ -47,6 +47,13 @@
                 "Adicionado icone no programa quando aberto",
                 "Atualizado botão de autulização automatica apos o restauramento do backup",
                 "Adicionado a digitação da senha com asterisco"
+            ]
+        },
+        {
+            "version": "1.4.1",
+            "date": "2023-10-16",
+            "changes": [
+                "Corrigido alteração visual ao editar empresa principal"
             ]
         }
     ]
