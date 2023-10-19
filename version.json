@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.4.5",
+    "latest_version": "1.4.6",
     "release_notes": [
         {
             "version": "1.0.0",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "version": "1.4.5",
+            "version": "1.4.6",
             "date": "2023-10-19",
             "changes": [
                 "Corrigido alguns bugs no processamento"
