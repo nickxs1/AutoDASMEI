@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.5.1",
+    "latest_version": "1.5.4",
     "release_notes": [
         {
             "version": "1.0.0",
@@ -69,6 +69,15 @@
             "changes": [
                 "Corrigido alguns bugs visuais",
                 "Adicionado função para retirar o ultimo espaco do fim do nome da empresa"
+            ]
+        },
+        {
+            "version": "1.5.4",
+            "date": "2023-10-24",
+            "changes": [
+                "Adicionado a navegação via EDGE",
+                "Corrigido ao adicionar empresas ficar com espaco ao final , impedindo criar pasta",
+                "Simplificação do codigo e processo"
             ]
         }
     ]
