@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.6.0",
+    "latest_version": "1.6.1",
     "release_notes": [
         {
             "version": "1.0.0",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "version": "1.6.0",
+            "version": "1.6.1",
             "date": "2023-11-05",
             "changes": [
                 "Migração para o banco de dados Online Via Google"
