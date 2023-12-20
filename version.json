@@ -108,10 +108,8 @@
             "version": "1.6.7",
             "date": "2023-12-20",
             "changes": [
-                "Alterado botão de Configuração de Download",
-                "Adicionado um tempo de espera maior para sair do site"
+                "Alterado botão de Configuração de Download"
 
-              
             ]
         }
     ]
